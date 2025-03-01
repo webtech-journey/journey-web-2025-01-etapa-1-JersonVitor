@@ -1,4 +1,4 @@
 #ignorar a pasta /tmp
-/temp_files/
+temp_files/
 #ignorar arquivo secrets.env
 secrets.env
